@@ -154,6 +154,6 @@ Cada vez que há uma requisição à API Star Wars, os seguintes dados são arma
 
 ## Considerações Finais
 - Certifique-se de que a API Star Wars esteja acessível ([https://swapi.py4e.com/](https://swapi.py4e.com/)).
-- Logs podem ser consultados diretamente na tabela `logs` do banco de dados para auditoria.
+- Logs podem ser consultados diretamente na tabela `logs` do banco de dados.
 - Atualmente, o sistema de logs está registrando entradas duplicadas. Uma solução para isso está sendo investigada.
 
